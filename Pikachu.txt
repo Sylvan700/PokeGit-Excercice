@@ -1,1 +1,2 @@
+Numero: 025
 Nom: "Pikachu"
